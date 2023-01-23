@@ -1319,10 +1319,10 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
   integrity sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==
 
-quicktype-core@^6.0.70:
-  version "6.0.70"
-  resolved "https://registry.yarnpkg.com/quicktype-core/-/quicktype-core-6.0.70.tgz#3be15eef505d356bc16fad01d2941d726c0a5700"
-  integrity sha512-BMoG1omvauNhgGFzz1AkFVIC0LPXPArE6cCGI5fTeHvXKQsVUCbHt+seee2TaqUkELX9Pk6yA0s8OW8vW3kllA==
+quicktype-core@^6.1.8:
+  version "6.1.12"
+  resolved "https://registry.yarnpkg.com/quicktype-core/-/quicktype-core-6.1.12.tgz#82328ab73d86a2eb11cf77591e168c30211884ee"
+  integrity sha512-pBV0VbYZEKIG49xaKGHCat6zlUbg1w15fDf3rnbV2IbG3Ec3T7e46V/dIgL+OGWFphjEZ6n7dcWZiogOk9Adtg==
   dependencies:
     "@mark.probst/unicode-properties" "~1.1.0"
     browser-or-node "^1.2.1"
